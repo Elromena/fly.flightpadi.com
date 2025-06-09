@@ -1,0 +1,1 @@
+// This file is now empty as the webhook functionality has been moved to Booking.tsx
